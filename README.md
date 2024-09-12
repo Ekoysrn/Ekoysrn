@@ -18,7 +18,7 @@
 </div> 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekoysrn&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=171717&card_width=1000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekoysrn&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=171717&card_width=800" />
 
 
 ### Contact

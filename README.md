@@ -1,4 +1,5 @@
-![githubpageekoysrn](https://github.com/user-attachments/assets/ec9cf34f-8e57-4ccd-9fde-f8b148a162d7)
+
+![bggithubekoysrn](https://github.com/user-attachments/assets/28e65a32-0471-4f54-910a-9df1a36fdb99)
 
 <h1 align="center">Hi 👋, I'm Eko Yusron</h1>
 <h3 align="center">Coding for fun and still learning</h3>

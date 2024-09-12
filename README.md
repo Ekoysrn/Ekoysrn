@@ -4,9 +4,29 @@
 <h3 align="center">Coding for fun and still learning</h3>
 
 ### Tech Stack
-![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=DC4D25) ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=2762E9) ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=E9D44D) ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=7377AD) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=790FF2) ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=D74A34) 
+<div>
+  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Language/Php?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Library/jQuery?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Database/MySQL?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Design/Figma?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark" />
+</div> 
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekoysrn&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekoysrn&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=171717&card_width=1000" />
+
+
+### Contact
+<div>
+   <a href="https://www.linkedin.com/in/eko-yusron-b8b65328b/" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/LinkedIn?theme=dark"></a>
+   <a href="https://www.instagram.com/ysrnar_/" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/Instagram?theme=dark"></a>
+   <a href="https://wa.me/87762399040" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/WhatsApp?theme=dark"></a>
+</div>
 
 <!--
 **Ekoysrn/Ekoysrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

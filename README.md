@@ -15,6 +15,7 @@
   <img src="https://svgl-badge.vercel.app/api/Database/MySQL?theme=dark" />
   <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark" />
   <img src="https://svgl-badge.vercel.app/api/Design/Figma?theme=dark" />
+  <img src="https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark" />
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark" />
 </div> 
 <br>

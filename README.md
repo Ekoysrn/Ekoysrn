@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=48&pause=1000&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+!;%F0%9F%91%8B%2C+Hi+there;+I+am+Ekoyusron+%F0%9F%98%89;let's+create+and+collaborate;something+great+and+awesome%E2%9C%A8;keep+learning%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=44&pause=1000&color=F8FAFC&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+!;%F0%9F%91%8B%2C+Hi+there;+I+am+Ekoyusron+%F0%9F%98%89;let's+create+and+collaborate;something+great+and+awesome%E2%9C%A8;keep+learning%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/57dabb88-bbc5-4254-b538-8718e8e3141e)
 
 
-### Tech Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2&pause=2001&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=%E2%8C%A8%EF%B8%8F+tech+stack)](https://git.io/typing-svg)
 <div>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark" />
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark" />
@@ -22,9 +22,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekoysrn&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=171717&card_width=800" />
 
 
-### Contact
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2&pause=2001&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%93%9E+Contact)](https://git.io/typing-svg)
 <div>
-   <a href="https://www.linkedin.com/in/eko-yusron-b8b65328b/" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/LinkedIn?theme=dark"></a>
+   <a style="display:none;" href="https://www.linkedin.com/in/eko-yusron-b8b65328b/" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/LinkedIn?theme=dark"></a>
    <a href="https://www.instagram.com/ysrnar_/" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/Instagram?theme=dark"></a>
    <a href="https://wa.me/87762399040" target="_blank"><img src="https://svgl-badge.vercel.app/api/Social/WhatsApp?theme=dark"></a>
 </div>

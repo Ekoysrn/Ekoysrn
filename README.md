@@ -1,8 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=48&pause=1000&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub+!;%F0%9F%91%8B%2C+Hi+there;+I+am+Ekoyusron+%F0%9F%98%89;let's+create+and+collaborate;something+great+and+awesome%E2%9C%A8;keep+learning%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![bggithubekoysrn](https://github.com/user-attachments/assets/28e65a32-0471-4f54-910a-9df1a36fdb99)
+![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/57dabb88-bbc5-4254-b538-8718e8e3141e)
 
-<h1 align="center">Hi 👋, I'm Eko Yusron</h1>
-<h3 align="center">Coding for fun and still learning</h3>
 
 ### Tech Stack
 <div>

@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=44&pause=1000&color=F8FAFC&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+!;%F0%9F%91%8B%2C+Hi+there;+I+am+Ekoyusron+%F0%9F%98%89;let's+create+and+collaborate;something+great+and+awesome%E2%9C%A8;keep+learning%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=44&pause=1000&color=F8FAFC&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+!;%F0%9F%91%8B%2C+Hi+there;+I+am+Ekoyusron+%F0%9F%98%89;let's+make+magic+;keep+learning%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/57dabb88-bbc5-4254-b538-8718e8e3141e)
-
+![di443oa-6e3881d9-cf19-4614-b5dc-3f5f30e6a716](https://github.com/user-attachments/assets/13027ec3-cb78-4421-9506-5ddc9a610dd4)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=2&pause=2001&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack)](https://git.io/typing-svg)
 <div align="center">

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=2&pause=2001&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=+Hello+Guys)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=2&pause=2001&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=+I+Am+Eko+Yusron+Ardiyansyah)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=2&pause=2001&color=F8FAFC&center=true&vCenter=true&width=1000&height=100&lines=%E2%8C%A8%EF%B8%8F+Tech+Stack)](https://git.io/typing-svg)
 <div align="center">
